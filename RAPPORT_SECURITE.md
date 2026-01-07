@@ -1,10 +1,5 @@
 # Rapport d'Audit de Sécurité - Application Web Vulnérable
 
-**Date de l'audit :** $(date)  
-**Application :** Blog Web Application  
-**Version audité :** 1.0.0  
-**Auditeur :** Auto (Assistant IA)
-
 ---
 
 ## Résumé Exécutif
@@ -373,6 +368,4 @@ Cependant, il est recommandé de continuer à améliorer la sécurité en implé
 - `backend/routes/users.js` - Ajout authentification/autorisation, masquage mots de passe
 
 ---
-
-**Fin du rapport**
 
